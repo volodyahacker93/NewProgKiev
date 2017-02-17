@@ -1,0 +1,11 @@
+{
+    "name": "Yurii",
+    "surname": "Salimov",
+    "phones": ["044-256-78-90", "066-123-45-67"],
+    "sites": ["http://alexcoffee.com.ua", "http://othersite.com"],
+    "address": {
+        "country": "UA",
+        "city": "Kyiv",
+        "street": "abcd"
+    }
+}
